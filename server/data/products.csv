@@ -1,0 +1,201 @@
+id,brand,model,category,price
+1,Apple,iPhone 15,Electronics,999.99
+2,Samsung,Galaxy S24,Electronics,899.99
+3,Dell,XPS 13,Laptops,1199.99
+4,HP,Spectre x360,Laptops,1299.99
+5,Logitech,MX Master 3,Accessories,99.99
+6,Apple,AirPods Pro 2,Electronics,249.99
+7,Bose,QuietComfort 35 II,Headphones,299.99
+8,Sony,WH-1000XM5,Headphones,379.99
+9,Canon,EOS Rebel T7,Camera,499.99
+10,Nikon,D3500,Camera,449.99
+11,GoPro,HERO11,Camera,399.99
+12,Apple,Watch Series 9,Smartwatches,399.99
+13,Fossil,Gen 6,Smartwatches,299.99
+14,Garmin,Forerunner 255,Smartwatches,199.99
+15,Fitbit,Charge 5,Fitness,149.99
+16,Philips,Sonicare DiamondClean,Personal Care,249.99
+17,Oral-B,Pro 1000,Personal Care,49.99
+18,iRobot,Roomba i7+,Home Appliances,799.99
+19,Dyson,V11 Torque Drive,Vacuums,599.99
+20,Instant Pot,Duo,Home Appliances,89.99
+21,KitchenAid,Artisan Stand Mixer,Kitchen,399.99
+22,Cuisinart,14-Cup Food Processor,Kitchen,199.99
+23,Ninja,Professional Blender,Kitchen,99.99
+24,Vitacost,Organic Protein Powder,Health,29.99
+25,Optimum Nutrition,Gold Standard Whey,Health,49.99
+26,BSN,Syntha-6,Health,39.99
+27,Nike,Air Zoom Pegasus 40,Sports,119.99
+28,Adidas,Ultraboost 24,Sports,179.99
+29,Under Armour,HOVR Sonic 5,Sports,139.99
+30,Reebok,Nano X2,Sports,129.99
+31,New Balance,Fresh Foam 1080v12,Sports,149.99
+32,Kerastase,Nutritive Shampoo,Beauty,25.99
+33,Redken,Extreme Shampoo,Beauty,22.99
+34,Neutrogena,Hydro Boost Moisturizer,Beauty,19.99
+35,Clinique,Moisture Surge,Beauty,39.99
+36,Estée Lauder,Double Wear Foundation,Beauty,45.99
+37,Tom Ford,Black Orchid Fragrance,Beauty,139.99
+38,Chanel,No. 5 Fragrance,Beauty,124.99
+39,Yves Saint Laurent,Libre Fragrance,Beauty,125.99
+40,Burberry,London Fragrance,Beauty,79.99
+41,Ray-Ban,Wayfarer Sunglasses,Accessories,149.99
+42,Oakley,Frogskins Sunglasses,Accessories,139.99
+43,Maui Jim,Peahi Sunglasses,Accessories,249.99
+44,Levi’s,501 Original Fit Jeans,Fashion,59.99
+45,Nike,Dri-FIT T-Shirt,Fashion,29.99
+46,Adidas,Essentials Sweatpants,Fashion,49.99
+47,Uniqlo,Ultra Light Down Jacket,Fashion,69.99
+48,Zara,Basic Blazer,Fashion,89.99
+49,H&M,Slim Fit Chinos,Fashion,39.99
+50,Gucci,GG Marmont Bag,Fashion,2499.99
+51,Louis Vuitton,Neverfull Bag,Fashion,1200.00
+52,Chanel,Classic Flap Bag,Fashion,5500.00
+53,Prada,Saffiano Leather Wallet,Fashion,399.99
+54,Coach,Tabby Crossbody Bag,Fashion,350.00
+55,Apple,iPad Pro,Tablets,799.99
+56,Samsung,Galaxy Tab S9,Tablets,749.99
+57,Microsoft,Surface Pro 9,Tablets,899.99
+58,Amazon,Fire HD 10,Tablets,149.99
+59,Google,Pixel Slate,Tablets,599.99
+60,Lego,Creator 3-in-1 Mustang,Toys,69.99
+61,Fisher-Price,Little People Farm,Toys,29.99
+62,Barbie,Dream House,Toys,199.99
+63,NERF,Fortnite Blaster,Toys,49.99
+64,Hot Wheels,Track Set,Toys,39.99
+65,Play-Doh,Fun Factory,Toys,12.99
+66,Disney Princess,Royal Ball Gown,Toys,39.99
+67,Hot Toys,Iron Man Figure,Toys,249.99
+68,LEGO,Star Wars Millennium Falcon,Toys,149.99
+69,Kindle,Paperwhite,Books,129.99
+70,Apple,iMac 24-inch,Computers,1299.99
+71,HP,Envy 34-inch Curved Monitor,Computers,699.99
+72,Dell,Ultrasharp U2723QE,Computers,549.99
+73,Logitech,G Pro X Gaming Headset,Accessories,129.99
+74,SteelSeries,Arctis 7 Gaming Headset,Accessories,149.99
+75,Logitech,G502 Hero Gaming Mouse,Accessories,49.99
+76,Razer,Naga V2 Gaming Mouse,Accessories,99.99
+77,Alienware,X17 R2,Laptops,1799.99
+78,MSI,GeForce RTX 4080 Graphics Card,Computers,1499.99
+79,Asus,ROG Strix G15,Laptops,1399.99
+80,Apple,MacBook Pro 16-inch,Laptops,2399.99
+81,Nintendo,Switch,Consoles,299.99
+82,PlayStation,5,Consoles,499.99
+83,Xbox,Series X,Consoles,499.99
+84,Logitech,StreamCam,Accessories,169.99
+85,Canon,EOS M50 Mark II,Camera,649.99
+86,Fujifilm,X-T4,Camera,1699.99
+87,Anker,PowerCore 10000,Accessories,25.99
+88,Bose,Soundsport Free,Headphones,199.99
+89,Skullcandy,Crusher Evo,Headphones,169.99
+90,Corsair,HS70 Pro,Headphones,99.99
+91,Shure,SM7B Microphone,Accessories,399.99
+92,Bose,Home Speaker 500,Home Audio,399.99
+93,Sonos,One SL,Home Audio,199.99
+94,Apple,HomePod Mini,Home Audio,99.99
+95,Bang & Olufsen,Beoplay A9,Home Audio,2499.99
+96,Logitech,LogiDock,Accessories,399.99
+97,Seagate,Backup Plus 5TB,Storage,129.99
+98,Western Digital,My Passport 4TB,Storage,99.99
+99,Samsung,970 EVO Plus 1TB,Storage,119.99
+100,Kingston,HyperX Fury 16GB RAM,Computers,69.99
+101,Apple,iPhone 14,Electronics,799.99
+102,Samsung,Galaxy Z Fold 5,Electronics,1799.99
+103,Google,Pixel 8,Electronics,899.99
+104,OnePlus,11,Electronics,799.99
+105,Lenovo,ThinkPad X1 Carbon,Laptops,1599.99
+106,Acer,Predator Helios 300,Laptops,1399.99
+107,Microsoft,Surface Laptop 5,Laptops,1299.99
+108,Asus,ZenBook 14,Laptops,999.99
+109,Logitech,MX Vertical,Accessories,99.99
+110,SteelSeries,Arctis Pro Wireless,Headphones,329.99
+111,JBL,Live 650BTNC,Headphones,149.99
+112,Sony,WF-1000XM4,Headphones,278.99
+113,Bose,SoundLink Revolve+,Home Audio,299.99
+114,Sonos,Arc,Home Audio,799.99
+115,Yamaha,YSP-5600,Home Audio,1499.99
+116,Philips,Shaver Series 9000,Personal Care,249.99
+117,Panasonic,ES-LV9Q,Personal Care,229.99
+118,Remington,XR7000,Personal Care,59.99
+119,Oral-B,Smart 9000,Personal Care,169.99
+120,Philips,Sonicare ProtectiveClean 6100,Personal Care,129.99
+121,Dyson,Supersonic Hair Dryer,Personal Care,399.99
+122,Braun,Series 9,Personal Care,299.99
+123,Apple,AirPods Max,Headphones,549.99
+124,Sony,WH-1000XM4,Headphones,348.99
+125,Fujifilm,X-T30,Camera,899.99
+126,Olympus,OM-D E-M1 Mark III,Camera,1399.99
+127,Leica,Q2,Camera,4999.99
+128,Cannon,EOS 90D,Camera,1199.99
+129,GoPro,HERO10,Camera,299.99
+130,Panasonic,Lumix GH5,Camera,1299.99
+131,Garmin,Approach S42,Smartwatches,249.99
+132,Fossil,Hybrid HR,Smartwatches,169.99
+133,Suunto,7,Smartwatches,399.99
+134,Apple,Watch Ultra,Smartwatches,799.99
+135,Fitbit,Versa 4,Smartwatches,229.99
+136,Withings,Steel HR Sport,Smartwatches,179.99
+137,Coros,Pace 2,Smartwatches,199.99
+138,Google,Nest Hub,Smart Home,89.99
+139,Amazon,Echo Show 8,Smart Home,129.99
+140,Philips,Hue White and Color Ambiance,Smart Home,79.99
+141,Sony,Bravia A80J 65-inch,TVs,1799.99
+142,Samsung,Neo QLED 8K,TVs,3999.99
+143,LG,C1 OLED 55-inch,TVs,1599.99
+144,Sharp,4K UHD 65-inch,TVs,799.99
+145,Hisense,8K ULED 65-inch,TVs,1999.99
+146,Apple,MacBook Air 13-inch,Laptops,999.99
+147,HP,Elite Dragonfly Laptop,Laptops,1799.99
+148,Dell,Inspiron 15,Laptops,799.99
+149,MSI,Creator 17,Laptops,2299.99
+150,Apple,iMac 27-inch,Computers,1799.99
+151,Microsoft,Surface Studio 2,Computers,3499.99
+152,HP,Envy 32 All-in-One,Computers,1799.99
+153,Alienware,Area-51m,Laptops,2799.99
+154,Asus,ROG Zephyrus G14,Laptops,1699.99
+155,Apple,Mac Mini,Computers,699.99
+156,Seagate,IronWolf 10TB,Storage,249.99
+157,Western Digital,Red 8TB,Storage,179.99
+158,Transcend,StoreJet 25M3,Storage,59.99
+159,SanDisk,Extreme Portable SSD 1TB,Storage,129.99
+160,Kingston,DataTraveler 128GB,Storage,49.99
+161,Corsair,MP600 Pro,Storage,169.99
+162,Patriot,VIPER VPN100,Storage,129.99
+163,Anker,PowerPort Atom PD 2,Accessories,39.99
+164,Bose,Soundsport Wireless,Headphones,149.99
+165,Beats,Powerbeats Pro,Headphones,249.99
+166,Creative,SXFI Theater,Headphones,229.99
+167,Audio-Technica,ATH-M50x,Headphones,149.99
+168,Bose,Home Speaker 500,Home Audio,399.99
+169,Marshall,Stanmore II,Home Audio,329.99
+170,Samsung,The Frame TV,Home Audio,999.99
+171,Apple,HomePod,Home Audio,299.99
+172,Sennheiser,Momentum True Wireless 3,Headphones,249.99
+173,Philips,Norelco OneBlade,Personal Care,34.99
+174,Panasonic,Arc 5,Personal Care,249.99
+175,Remington,PG6025,Personal Care,19.99
+176,Norelco,Shaver 7100,Personal Care,99.99
+177,Kingston,Fury Renegade 32GB,Computers,129.99
+178,Crucial,MX500 1TB,Storage,79.99
+179,ADATA,XPG Gammix S5 1TB,Storage,89.99
+180,Kingston,HyperX Alloy FPS Pro,Accessories,99.99
+181,Razer,DeathAdder V2,Accessories,69.99
+182,Logitech,G915 TKL,Accessories,229.99
+183,SteelSeries,Rival 600,Accessories,79.99
+184,Apple,Magic Keyboard,Accessories,99.99
+185,Microsoft,Surface Dial,Accessories,99.99
+186,Seagate,Game Drive 2TB,Storage,99.99
+187,Western Digital,Black SN850X,Storage,149.99
+188,Anker,PowerCore 26800,Accessories,79.99
+189,HyperX,Fury RGB 16GB RAM,Computers,79.99
+190,Samsung,Odyssey G7 32-inch,Monitors,499.99
+191,LG,UltraGear 27GN950-B,Monitors,799.99
+192,Dell,Alienware AW3423DW,Monitors,1599.99
+193,ASUS,ProArt PA32UCG,Monitors,2499.99
+194,Philips,Brilliance 328P,Monitors,399.99
+195,Apple,Pro Display XDR,Monitors,4999.99
+196,Anker,Soundcore Liberty Air 2,Headphones,99.99
+197,Jabra,Elite 85h,Headphones,299.99
+198,Sony,LinkBuds S,Headphones,179.99
+199,Beats,Studio Buds,Headphones,149.99
+200,Logitech,MX Keys,Accessories,99.99

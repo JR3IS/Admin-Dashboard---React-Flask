@@ -1,0 +1,26 @@
+id,name,phone,email,role,access
+1,John Smith,555-1234,john.smith@company.com,Chief Administrator,Admin
+2,Emily Davis,555-5678,emily.davis@company.com,Operations Supervisor,Manager
+3,Michael Chen,555-9012,michael.chen@company.com,Product Strategy Lead,Admin
+4,Sarah Rodriguez,555-3456,sarah.rodriguez@company.com,Order Fulfillment Lead,Manager
+5,David Kim,555-7890,david.kim@company.com,Financial Analyst,Admin
+6,Lisa Turner,555-1122,lisa.turner@company.com,Customer Experience Lead,Manager
+7,James Wilson,555-3344,james.wilson@company.com,Customer Support Agent,User
+8,Oliver Scott,555-5566,oliver.scott@company.com,Supply Chain Coordinator,User
+9,Grace Lee,555-7788,grace.lee@company.com,Marketing Specialist,User
+10,Thomas Clark,555-9900,thomas.clark@company.com,Sales Operations Lead,Manager
+11,Charlotte Green,555-2233,charlotte.green@company.com,Junior Analyst,User
+12,Henry Harris,555-4455,henry.harris@company.com,Head of IT,Admin
+13,Victoria Lewis,555-6677,victoria.lewis@company.com,Brand Manager,Manager
+14,Jack Moore,555-8899,jack.moore@company.com,Email Marketing Lead,Manager
+15,Emily Evans,555-1010,emily.evans@company.com,Product Support Agent,User
+16,Aiden Scott,555-1212,aiden.scott@company.com,Social Media Specialist,User
+17,Mason Parker,555-2323,mason.parker@company.com,Inventory Supervisor,Manager
+18,Ella Young,555-3434,ella.young@company.com,Sales Assistant,User
+19,Amelia Adams,555-4545,amelia.adams@company.com,Operations Director,Admin
+20,Jackson Walker,555-5656,jackson.walker@company.com,Procurement Manager,Manager
+21,Lucas Allen,555-6767,lucas.allen@company.com,Data Insights Lead,Admin
+22,Natalie King,555-7878,natalie.king@company.com,Logistics Coordinator,User
+23,Alexander Nelson,555-8989,alexander.nelson@company.com,UI/UX Designer,User
+24,Mia Hill,555-9090,mia.hill@company.com,Marketing Coordinator,User
+25,Benjamin Carter,555-1111,benjamin.carter@company.com,Content Strategist,User
